@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (file) {
             const reader = new FileReader();
-            const intervalDuration = 50; // Interval duration in milliseconds
+            const intervalDuration = 5; // Interval duration in milliseconds
 
             let currentPercentage = 0;
 
