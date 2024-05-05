@@ -2,8 +2,6 @@
 
 Demo Here:  [Image-ResizerX](https://siddhesh9000.github.io/Image-ResizerX/)
 
-Demo Here : [Image Resizer Web App](http://localhost:7100)
-
 A simple web application for resizing images with Node.js, Express, and Tailwind CSS.
 
 ## Features
