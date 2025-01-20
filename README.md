@@ -15,7 +15,7 @@ A simple web application for resizing images with Node.js, Express, and Tailwind
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/image-resizer-web.git
+   https://github.com/Siddhesh9000/Image-ResizerX.git
    ```
 
 2. Navigate to the project directory:
