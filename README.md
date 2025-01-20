@@ -3,6 +3,8 @@
 Demo Here: [Image-ResizerX](https://image-resizer-x.vercel.app/)
 
 A simple web application for resizing images with Node.js, Express, and Tailwind CSS.
+![image](https://github.com/user-attachments/assets/d4264e30-1aca-477c-b8f7-23f38e53e2a5)
+
 
 ## Features
 
