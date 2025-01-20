@@ -1,6 +1,6 @@
 🖼️ Image Resizer Web App
 
-Demo Here:  [Image-ResizerX]([https://siddhesh9000.github.io/Image-ResizerX/](https://image-resizer-x.vercel.app/))
+Demo Here: [Image-ResizerX](https://siddhesh9000.github.io/Image-ResizerX/)
 
 A simple web application for resizing images with Node.js, Express, and Tailwind CSS.
 
